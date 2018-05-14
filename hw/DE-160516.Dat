@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DE-160516.PrjPcb|ReportField=ProjectFullPath~C:\Users\eldar\Desktop\Apsolutni enkoder\hw\DE-160516\DE-160516.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [DE-160516.PcbDoc]|ReportField=TotalQuantity~60|ReportField=ReportTime~03:47:24|ReportField=ReportDate~14.5.2018.|ReportField=ReportDateTime~14.5.2018. 03:47:24|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~DE-160516.PcbDoc|ReportField=DataSourceFullPath~C:\Users\eldar\Desktop\Apsolutni enkoder\hw\DE-160516\DE-160516.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1||Ceramic Chip Capacitor - Standard|C100, C104, C105, C106, C108, C109, C111, C112, C113, C117|0805|C0805|10
+2|220uF|Solid Aluminum Capacitor with Organic Semiconductor Electrolyte: 100uF, 20V, Bulk Pack|C101, C102|E|94SS107X0020EBP|2
+3|10uF|Solid Aluminum Capacitor with Organic Semiconductor Electrolyte: 10uF, 16V, Bulk Pack|C103, C107|C|94SC106X0016CBP|2
+4||Ceramic Chip Capacitor - Standard|C110|1206|C1206|1
+5|470uF|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 470uF, 10V|C114, C115|CAPPR2.5-6.3X11|EKA00BA347C00|2
+6|10uF|Conformal Coated Solid Tantalum Chip Capacitor: 6.8uF, 20% Tolerance, 10 WVDC @ -55°C to +85°C, Surge = 13V|C116|49BC-C|49BC685B010M|1
+7|STATUS|LED dioda 3 mm|D100|LED 3mm|LED 3mm yellow|1
+8|ZERO POS|LED dioda 3 mm|D101|LED 3mm|LED 3mm yellow|1
+9|BAV102|General-purpose Diode|D102|SOD80C|BAV102|1
+10|AEAT-6600|Absolute encoder IC|IC100|TSSOP16|AEAT-6600|1
+11|10uH|SMD-Multilayer Inductor WE-MI, L = 0.10µH|L100, L101, L102, L103, L104, L105, L106, L107, L108, L109|SMD-0603|7447962|10
+12||SMT Power Choke Coil; Size 7.3×6.6×3.0mm, ±20% Tolerance, 0.82uH, 13A|L110, L111|RB5-10.5|PCMC063T-R82MN|2
+13|PWR_IN|Header, 2-Pin|P100|HDR1X2|Header 2|1
+14|ALIGN|Header, 2-Pin|P101|HDR1X2|Header 2|1
+15|Header 10|Header, 10-Pin|P102|HDR1X10|Header 10|1
+16|Header 6|Header, 6-Pin|P103|HDR1X6|Header 6|1
+17|1R|Flame-Retardant Fuse Type Carbon Film Resistor, 4.7 Ohm to 3.3k Ohm Range, 2% and 5% Tolerance, 0.25 W|R100, R103|RD6.35x2.3|ERD2FC|2
+18|10K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R101, R102, R104, R105, R106, R107, R108, R109|ERA-0603|ERAV|8
+19|2K2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R110, R113|ERA-0603|ERAV|2
+20|1R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R111, R112|ERA-0805|ERAS|2
+21|3K6|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R114|ERA-0805|ERAS|1
+22|1k2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R115|ERA-0805|ERAS|1
+23|L293B|Push-Pull Four Channel Drivers|U100, U102, U103|DIP16|L293B|3
+24|PIC18F23K20-I/SO|Flash Microcontroller with nanoWatt XLP Technology, 28-pin SOIC, Industrial Temperature|U101|SOIC-SO28_N|PIC18F23K20-I/SO|1
+25|MC34063AD|DC-to-DC Converter Control Circuit|U104|751-05_N|MC34063AD|1
+26|REG1117-3.3|800mA and 1A Low Dropout Positive Regulator 2.85V, 3.3V, 5V, and Adjustable|U105|ZZ311|REG1117-3.3|1
